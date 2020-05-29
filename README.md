@@ -1,5 +1,5 @@
-# grupo_5_spa
-eCommerce de Spa realizado para la clase de Fullstack Node JS de Digital House
+# Nirvana Spa
+eCommerce para  servicios de Spa realizado como trabajo integrador.
 
 **Backlog:** https://trello.com/b/XpFQfmJa/full-stack-spa
 
